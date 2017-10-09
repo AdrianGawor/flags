@@ -9,5 +9,10 @@
             "email": "adrian.gawor@htl.rennweg.at"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "htl3r\\flags": "src/",
+        }
+    },
     "require": {}
 }
