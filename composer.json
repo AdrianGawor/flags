@@ -1,0 +1,13 @@
+{
+    "name": "htl3r/flag",
+    "description": "A Library for creating Flags in various shapes",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "AdrianGawor",
+            "email": "adrian.gawor@htl.rennweg.at"
+        }
+    ],
+    "require": {}
+}
