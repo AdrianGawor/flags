@@ -1,4 +1,7 @@
 <?php
+
+namespace htl3r\flags;
+
 /**
  * Created by PhpStorm.
  * User: Adrian
